@@ -1,1 +1,1 @@
-# platfrom-zero
+# platform-zero
